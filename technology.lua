@@ -44,7 +44,7 @@ data:extend(
         {"science-pack-1", 2},
         {"science-pack-2", 1},
 		{"science-pack-3", 1},
-		{"science-pack-4", 3},
+		{"alien-science-pack", 3},
       },
       time = 80
     },

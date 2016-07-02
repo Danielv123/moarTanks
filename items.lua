@@ -3,7 +3,7 @@ data:extend(
 	{
     type = "ammo",
     name = "advanced-flame-thrower-ammo",
-    icon = "__base__/graphics/icons/flame-thrower-ammo.png",
+    icon = "__base__/graphics/icons/advanced-flame-thrower-ammo.png",
     flags = {"goes-to-main-inventory"},
     ammo_type =
     {
