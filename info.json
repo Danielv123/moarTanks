@@ -1,6 +1,6 @@
 {
   "name": "moarTanks",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "title": "Moar tanks :3",
   "author": "Danielv123",
   "dependencies": ["base >= 0.13.0", "? 5dim_core >= 3.1.0"],
